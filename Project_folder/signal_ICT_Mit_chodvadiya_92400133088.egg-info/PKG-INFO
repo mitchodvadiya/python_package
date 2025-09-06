@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: signal_ICT_Mit_chodvadiya_92400133088
+Version: 1.0.0
+Summary: A package for unitary, trigonometric signals and operations
+Author: Mit chodvadiya
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: summary
