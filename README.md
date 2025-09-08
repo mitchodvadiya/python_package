@@ -1,4 +1,5 @@
-this is installation link:- pip install signal_ICT_Mit_chodvadiya_92400133088-1.0.0-py3-none-any.whl first install that through cmd or any ide where we have to install that package
+this is installation link:-
+pip install signal_ICT_Mit_chodvadiya_92400133088-1.0.0-py3-none-any.whl first install that through cmd or any ide where we have to install that package
 first create a LHC name folder inside that create 4 folder : 1. build 2. dist 3. signal_ICT_Mit_chodvadiya_92400133088 4. signal_ICT_Mit_chodvadiya_92400133088.egg-info and two file also main.py , setup.py
 inside 1. build two folder : 1. bdist.win-amd64 2. lib inside 2. lib create folder of "signal_ICT_ Mit_chodvadiya_92400133088 " four file 1. unitary_signals.py 2. trigonometric_signals.py 3. operations.py 4. init.py file
 2.dist create two file 1.signal_ict_ Mit_chodvadiya_92400133088 -1.0.0.tar.gz 2.signal_ICT_ Mit_chodvadiya_92400133088 -1.0.0-py3-none-any.whl
